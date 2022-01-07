@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great day !",
+      "id": 1
+    },
+    {
+      "title": "Bonjour",
+      "description": "Salut comment ça va ?",
+      "id": 2
+    },
+    {
+      "title": "Un troisieme Stream",
+      "description": "Oui c'est bien lui",
+      "id": 3
+    },
+    {
+      "title": "I created This !",
+      "description": "Made self ",
+      "id": 4
+    }
+  ]
+}
